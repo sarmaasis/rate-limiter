@@ -4,7 +4,7 @@ A simple rate limiter using Redis
 
 ## Installation
 
-```sh pip install rate_limiter ```sh
+``` pip install rate_limiter ```
 
 ## USAGE
 
