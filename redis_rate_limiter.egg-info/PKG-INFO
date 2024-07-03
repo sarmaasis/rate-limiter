@@ -1,5 +1,5 @@
 Metadata-Version: 1.2
-Name: rate-limiter
+Name: redis-rate-limiter
 Version: 0.1.0
 Summary: A simple rate limitter using redis
 Home-page: https://github.com/sarmaasis/rate-limiter
