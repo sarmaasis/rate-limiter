@@ -4,7 +4,7 @@ A simple rate limiter using Redis
 
 ## Installation
 
-``` pip install rate_limiter ```
+``` pip install leakyBucket-limiter ```
 
 ## USAGE
 
